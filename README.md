@@ -84,7 +84,7 @@ Packaging for your favorite distribution would be a welcome contribution!
 
 2. Grab an up-to-date copy of the aeon-gui repository
 
-	`git clone https://github.com/aeonix/aeon-gui.git`
+	`git clone https://github.com/fnogaming/aeon-gui.git`
 
 3. Go into the repository
 
@@ -168,7 +168,7 @@ The executable can be found in the build/release/bin folder.
 
 6. Grab an up-to-date copy of the aeon-gui repository
 
-  `git clone https://github.com/aeonix/aeon-gui.git`
+  `git clone https://github.com/fnogaming/aeon-gui.git`
 
 7. Go into the repository
 
@@ -226,7 +226,7 @@ The Aeon GUI on Windows is 64 bits only; 32-bit Windows GUI builds are not offic
 6. Clone repository
 
     ```
-    git clone https://github.com/aeonix/aeon-gui.git
+    git clone https://github.com/fnogaming/aeon-gui.git
     ```
 
 7. Build
